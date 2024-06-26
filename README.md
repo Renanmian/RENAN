@@ -1,5 +1,3 @@
-# RENAN
-
 BOAS VINDAS AO MEU PEFIL
 
  -ESTOU ESTUDANDO NO [ALURA](https://www.alura.com.br)
